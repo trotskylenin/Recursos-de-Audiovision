@@ -27,7 +27,7 @@ permite generar y procesar fotografías HDR (Alto rango dinámico)
 combinando fotos con distintas exposiciones. Con este software también
 es posible hacer tone mapping.  
 **DIFERENCIA ENTRE HDR Y TONE MAPPING:**
-***<https://www.dzoom.org.es/fotografia-hdr-y-tone-mapping-es-lo-mismo/>***  
+***<https://www.dzoom.org.es/fotografia-hdr-y-tone-mapping-es-lo-mismo/>***    
 **LINK:** ***<http://qtpfsgui.sourceforge.net/>***  
 
 **Image Composite Editor (Windows):**  

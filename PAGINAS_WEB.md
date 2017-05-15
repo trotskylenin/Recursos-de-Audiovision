@@ -38,6 +38,10 @@ Andrew Kramer. Cualquiera que se inicia en el After Effects puede
 aprender tranquilamente a usar el software solo con mirar los videos de
 esta página.  
 
+**-NUKEROS -** ***<http://www.nukeros.com/>***
+Página web y foro con algunos video tutoriales en español, libros y otros
+recursos para Nuke.
+
 **-LYNDA -** ***<https://www.lynda.com>***  
 Sitio de video tutoriales de una gran variedad de software, entre los
 que se puede encontrar varios de la suite Adobe, de Nuke y Avid entre

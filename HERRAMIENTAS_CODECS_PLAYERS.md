@@ -22,7 +22,7 @@ de un video, demuxear (sacar el stream de video o audio por separado) y
 que se caracteriza por tener el tipo de cuadro de cada frame, por lo que
 cortando cuadros intraframe permite lograr el conocido d/efecto de
 datamosh.  
-**LINK:** ***<http://fixounet.free.fr/avidemux/>***
+**LINK:** ***<http://fixounet.free.fr/avidemux/>***  
 **COMO HACER DATAMOSH:** ***<https://www.youtube.com/watch?v=mi82zK3A6bk>***
 
 **-GraphStudioNext (Windows):**  
