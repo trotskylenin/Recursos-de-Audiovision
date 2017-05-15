@@ -20,7 +20,7 @@ limitaciones pero no se puede abrir con ella ni guardar proyectos de la
 versión comercial.  
 **LINK:** ***<https://www.foundry.com/products/nuke>***  
 
-**-Natron (Windows, Linux, Mac, OpenBSD):**  
+**-Natron (Windows, Linux, Mac):**  
 Natron es un compositor open source y gratuito desarrollado por el
 Instituto Nacional Francés de Innovación Tecnológica. Su interfaz es
 prácticamente igual a la de Nuke y hasta soporta los plugins de The
