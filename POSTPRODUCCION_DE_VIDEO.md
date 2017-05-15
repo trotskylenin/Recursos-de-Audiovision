@@ -57,7 +57,7 @@ Los plugins gratuitos de Duduf como el Duik, el Dufx y el Dugr sirven
 para trabajar en After Effects con animación de personajes utilizando
 inverse kinematics, grupos de capas y de efectos. Herramienta
 fundamental para el animador 2D.  
-**LINK:** ***<https://rainboxprod.coop/en/tools/\#ae>***  
+**LINK:** ***<https://rainboxprod.coop/en/tools/#ae>***  
 
 **-Mr. Horse Animation Composer (Windows, Mac):**  
 Este plugin gratuito permite hacer de manera súper sencilla un montón
@@ -68,6 +68,6 @@ el motion grapher creativo, pero sirve para zafar muchos de esos casos
 donde no hay inspiración ni presupuesto o donde el cliente se conforma
 con poco.  
 **LINK:** ***<https://misterhorse.tv/>***
-  
+
 
 [*VOLVER AL INDICE*](README.md)
