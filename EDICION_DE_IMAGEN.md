@@ -30,14 +30,14 @@ es posible hacer tone mapping.
 ***<https://www.dzoom.org.es/fotografia-hdr-y-tone-mapping-es-lo-mismo/>***    
 **LINK:** ***<http://qtpfsgui.sourceforge.net/>***  
 
-**Image Composite Editor (Windows):**  
+**-Image Composite Editor (Windows):**  
 I.C.E. es un software gratuito proporcionado por Microsoft que permite
 generar imágenes panorámicas fácil y rápidamente combinando varias fotos
 o utilizando un video. Tiene un algoritmo que además permite rellenar
 los espacios de imagen que quedan recortados al armar el panorama.  
 **LINK:** ***<https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/>***  
 
-**Hugin (Windows, Linux, Mac, FreeBSD):**  
+**-Hugin (Windows, Linux, Mac, FreeBSD):**  
 Este software cumple la misma función que Image Composite Editor pero
 corre en cualquier plataforma.  
 **LINK:** ***<http://hugin.sourceforge.net/>***
