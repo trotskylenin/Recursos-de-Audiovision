@@ -24,7 +24,7 @@ del otro mundo. Dicen ser los primeros en crear un editor de video de 64
 bits.  
 **LINK:** ***<http://cinelerra.org/>***  
 
-**-Avid Media Composer (Windows, Linux, Mac):**  
+**-Avid Media Composer (Windows, Mac):**  
 Este es el editor que aun hoy en día sigue siendo líder en toda la
 industria televisiva y cinematográfica, si bien de a poco está empezando
 a pelear cabeza a cabeza con Premiere dados los grandes cambios que este
