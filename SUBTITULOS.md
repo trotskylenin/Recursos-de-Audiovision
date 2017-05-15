@@ -5,7 +5,7 @@ Subtitle Edit es un editor de subtítulos de código abierto y gratuito
 que soporta una gran variedad de formatos, incluyendo algunos que se
 usan en broadcasting de TV como el formato EBU STL.  
 Es ideal para convertir subtitulos de un formato a otro rápidamente, o hacer
-correcciones de timing.
+correcciones de timing.  
 **LINK:** ***<http://www.nikse.dk/SubtitleEdit/>***
 
 **-Aegisub (Windows, Linux, Mac):**  
