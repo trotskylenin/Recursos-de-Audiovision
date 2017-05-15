@@ -1,6 +1,6 @@
 ## HERRAMIENTAS TÉCNICAS, CODECS Y PLAYERS ##  
 
-**- MediaInfo (Linux, Mac, Windows):**  
+**-MediaInfo (Linux, Mac, Windows):**  
 Herramienta fundamental para todo el que trabaja con distintos tipos
 de video, sea su rol el de editor, postproductor, productor, asistente,
 etc. Permite ver toda la metadata de los archivos de media, esto quiere
