@@ -97,7 +97,7 @@ televisión se manejan en formato MXF.
 **LINK:** ***<http://www.pro.sony.eu/pro/lang/en/is/support/software/1237485726571>***
 
 **- GoPro VR Player (Windows, Linux, Mac):**  
-Reproductor de videos en 360.
+Reproductor de videos en 360.  
 **LINK:** ***<http://www.kolor.com/gopro-vr-player/>***
 
 **-Plex Media Server (Windows, Linux, Mac y otros):**  
