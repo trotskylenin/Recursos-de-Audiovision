@@ -58,7 +58,7 @@ también hay varias interfaces graficas que se pueden bajar.
 Uno de los pocos transcoders con interfaz gráfica gratuitos que
 conozco. De fondo usa FFMPEG, sirve para transcodificar solo a los
 formatos más populares. La curiosidad es que soporta el códec de última
-generación h265.
+generación h265.  
 **LINK:** ***<https://handbrake.fr/>***
 
 **-Super (Windows):**  
