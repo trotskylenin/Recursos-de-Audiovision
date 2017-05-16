@@ -22,24 +22,24 @@ versión comercial.
 
 **-Natron (Windows, Linux, Mac):**  
 Natron es un compositor open source y gratuito desarrollado por el
-Instituto Nacional Francés de Innovación Tecnológica. Su interfaz es
-prácticamente igual a la de Nuke y hasta soporta los plugins de The
-Foundry otros de tipo OpenFX.  
+Instituto Nacional Francés de Investigación en Informática y en Automática
+(INRIA). Su interfaz es prácticamente igual a la de Nuke y hasta soporta los
+plugins de The Foundry otros de tipo OpenFX.  
 **LINK:** ***<https://natron.fr/>***
 
 **-Blackmagic Fusion (Windows, Linux, Mac):**   
-BlackMagic Fusion es un compositor de larga trayectoria en el mundo
-películas como 2012, Gravity y Sin City y en series como Game of
-audiovisual y que compite directamente contra Nuke. Se ha utilizado en
-Thrones. Funciona también con una interfaz de nodos y si bien no es open
-source, tiene una versión gratuita con muy pocas limitaciones.  
+BlackMagic Fusion es un compositor de larga trayectoria en el mundo audiovisual
+y que compite directamente contra Nuke.  
+Se ha utilizado en películas como 2012, Gravity y Sin City y en series
+como Game of Thrones. Funciona también con una interfaz de nodos y si bien no es
+ open source, tiene una versión gratuita con muy pocas limitaciones.  
 **LINK:** ***<https://www.blackmagicdesign.com/es/products/fusion>***
 
 **-Blackmagic DaVinci Resolve (Windows, Linux, Mac):**  
 Excelente software profesional para hacer corrección de color. Tiene
 una versión gratuita cuya única limitación es la imposibilidad de
 trabajar material 4K. Para hacerlo funcionar es necesario tener una
-placa NVIDIA Quadro como mínimo y los drivers propietarios
+placa NVIDIA que soporte CUDA 2.0 y los drivers propietarios
 correspondientes.  
 **LINK:** ***<https://www.blackmagicdesign.com/products/davinciresolve>***  
 
@@ -48,7 +48,7 @@ El Voodoo es la versión no comercial del software Viscoda de trackeo
 de cámara. Es un software bastante sencillo y bastante automatizado que
 sirve para zafar los camera trackings más sencillos. Lo malo es que
 necesita sí o sí que la entrada sea en secuencia de cuadros. La salida
-se puede importar en distintos programas como Nuke, Bender, Max o Maya
+se puede importar en distintos programas como Nuke, Blender, Max o Maya
 entre otros.  
 **LINK:** ***<http://www.viscoda.com/index.php/en/products/non-commercial/voodoo-camera-tracker>***  
 
