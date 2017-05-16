@@ -5,8 +5,8 @@ Este ultra conocido firmware custom para camaras tipo DSLR de Canon no
 necesita presentación. Se puede instalar desde una memoria externa
 siguiendo las instrucciones aunque hay que tener en cuenta siempre el
 riesgo de dañar la cámara si no se hace de forma correcta. Los
-beneficios que trae por otro lado son enormes ya que permite grabar a
-tasas de bitrate más altas que las que los equipos permiten de fábrica y
+beneficios que trae por otro lado son enormes ya que permite grabar a bitrates
+más altas que las que los equipos permiten de fábrica y
 activar otras funcionalidades como enmascaramiento, focus peaks y
 zebras, entre otras cosas que son muy útiles a la hora de salir de
 rodaje.  
@@ -26,7 +26,7 @@ Una alternativa al Marvels Cine lanzada por Technicolor. En teoría no
 aprovecha tanto el rango dinámico de la cámara, pero para algunas
 personas da un look que es un poco más cinematográfico que el de
 Marvels.  
-**LINK:** ***<http://www.technicolor.com/en/solutions-services/cinestyle*](http://www.technicolor.com/en/solutions-services/cinestyle>***
+**LINK:** ***<http://www.technicolor.com/en/solutions-services/cinestyle>***
 
 **-Nikon Patch Tool (Nikon DSLRs):**  
 Si bien las DSLR Nikon son mejores en calidad fotográfica que las Canon,

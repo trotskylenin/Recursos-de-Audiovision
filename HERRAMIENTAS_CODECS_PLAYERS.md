@@ -1,6 +1,6 @@
 ## HERRAMIENTAS TÉCNICAS, CODECS Y PLAYERS ##  
 
-**- MediaInfo (Linux, Mac, Windows):**  
+**-MediaInfo (Linux, Mac, Windows):**  
 Herramienta fundamental para todo el que trabaja con distintos tipos
 de video, sea su rol el de editor, postproductor, productor, asistente,
 etc. Permite ver toda la metadata de los archivos de media, esto quiere
@@ -22,7 +22,7 @@ de un video, demuxear (sacar el stream de video o audio por separado) y
 que se caracteriza por tener el tipo de cuadro de cada frame, por lo que
 cortando cuadros intraframe permite lograr el conocido d/efecto de
 datamosh.  
-**LINK:** ***<http://fixounet.free.fr/avidemux/>***
+**LINK:** ***<http://fixounet.free.fr/avidemux/>***  
 **COMO HACER DATAMOSH:** ***<https://www.youtube.com/watch?v=mi82zK3A6bk>***
 
 **-GraphStudioNext (Windows):**  
@@ -58,7 +58,7 @@ también hay varias interfaces graficas que se pueden bajar.
 Uno de los pocos transcoders con interfaz gráfica gratuitos que
 conozco. De fondo usa FFMPEG, sirve para transcodificar solo a los
 formatos más populares. La curiosidad es que soporta el códec de última
-generación h265.
+generación h265.  
 **LINK:** ***<https://handbrake.fr/>***
 
 **-Super (Windows):**  
@@ -96,8 +96,8 @@ industria televisiva. La mayoría de los materiales en los canales de
 televisión se manejan en formato MXF.  
 **LINK:** ***<http://www.pro.sony.eu/pro/lang/en/is/support/software/1237485726571>***
 
-**- GoPro VR Player (Windows, Linux, Mac):**  
-Reproductor de videos en 360.
+**-GoPro VR Player (Windows, Linux, Mac):**  
+Reproductor de videos en 360.  
 **LINK:** ***<http://www.kolor.com/gopro-vr-player/>***
 
 **-Plex Media Server (Windows, Linux, Mac y otros):**  
