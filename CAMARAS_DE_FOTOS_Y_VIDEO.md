@@ -5,8 +5,8 @@ Este ultra conocido firmware custom para camaras tipo DSLR de Canon no
 necesita presentación. Se puede instalar desde una memoria externa
 siguiendo las instrucciones aunque hay que tener en cuenta siempre el
 riesgo de dañar la cámara si no se hace de forma correcta. Los
-beneficios que trae por otro lado son enormes ya que permite grabar a bitrates
-más altas que las que los equipos permiten de fábrica y
+beneficios que trae por otro lado son enormes ya que permite grabar a
+tasas de bitrate más altas que las que los equipos permiten de fábrica y
 activar otras funcionalidades como enmascaramiento, focus peaks y
 zebras, entre otras cosas que son muy útiles a la hora de salir de
 rodaje.  
