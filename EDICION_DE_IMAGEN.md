@@ -6,7 +6,11 @@ fotografías. Es el reemplazo ideal para Photoshop cuando se trabaja en
 Linux o no se tiene dinero para pagar la licencia de Adobe ya que
 funciona también con capas y es bastante similar en cuanto a
 funcionalidad.  
-**LINK:** ***<https://www.gimp.org/>***
+**LINK:** ***<https://www.gimp.org/>***  
+
+**-Inkscape (Windows, Linux, Mac):**  
+Inkscape es un software libre y open source que sirve para crear y editar imagenes vectoriales. Si Gimp es el reemplazo ideal para Photoshop, Inkscape lo es para el Illustrator.  
+**LINK:** ***<https://inkscape.org/es/>***  
 
 **-Darktable (Linux, Mac, FreeBSD, Solaris):**  
 Darktable es un software de edición de fotografías open source y

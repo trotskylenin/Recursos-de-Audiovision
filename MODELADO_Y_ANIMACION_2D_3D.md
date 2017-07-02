@@ -1,4 +1,8 @@
-## MODELADO Y ANIMACIÓN 3D ##  
+## MODELADO Y ANIMACIÓN 2D/3D ##  
+
+**-Synfig Studio (Windows, Linux):**  
+Synfig Studio es software open source que permite realizar animaciones con imagenes de vectores en 2D al estilo de Adobe Flash / Animate. El resultado se puede exportar en video. Ideal para los que quieren hacer dibujitos animados sin gastar mucho.  
+**LINK:** ***<http://synfig.org/>***  
 
 **-Blender (Windows, Linux, Mac):**  
 El mejor programa de modelado y animación 3D gratuito que existe a mi
