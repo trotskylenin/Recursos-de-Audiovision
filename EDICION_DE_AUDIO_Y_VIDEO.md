@@ -62,5 +62,11 @@ como un filtro dentro del Audacity, pero también se puede bajar como
 aplicación standalone.  
 **LINK:** ***<http://hypermammut.sourceforge.net/paulstretch/>***  
 
+**-Kinemaster (Android, iOS):**  
+El único editor de video multicapa para Android (en iOS hay otras alternativas
+como iMovie). Requiere un celular mas o menos potente y en la version gratis
+renderiza los videos con una marca de agua en la parte superior, pero es muy
+bueno para armar ediciones sencillas y rapidas en el momento y lugar que sea.  
+**LINK:** ***<https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=es_419>***
 
 [*VOLVER AL INDICE*](README.md)
