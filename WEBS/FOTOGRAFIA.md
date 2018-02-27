@@ -59,4 +59,4 @@ Golden Hour también permite indicar diferentes fechas y puntos en el mapa
 (para indicarle locaciones de rodaje) y el sitio calculará los horarios en que
 estos preciados momentos ocurrirán.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)

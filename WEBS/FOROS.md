@@ -15,4 +15,4 @@ Foro en español más conocido de usuarios de cámaras Canon.
 Foro en ingles sobre cámaras Nikon, enfocado en cómo hacer rendir más y
 customizar estos equipos.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)

@@ -9,4 +9,4 @@ Excelente página de noticias a la que se puede suscribir para recibir
 por correo electrónico las últimas novedades del mundo del video y la
 postproducción.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)

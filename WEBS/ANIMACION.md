@@ -18,4 +18,4 @@ esas conversiones, pero es pago.
 Página de donde se pueden descargar gratuitamente una enorme cantidad de
 materiales para utilizar con el renderer 3d Vray.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)

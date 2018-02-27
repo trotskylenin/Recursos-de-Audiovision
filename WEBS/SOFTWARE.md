@@ -18,4 +18,4 @@ postproducción. En esta página se puede comprar software de la empresa
 Automatic Duck que permite migrar proyectos de final a Avid o de Avid a
 After Effects.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)

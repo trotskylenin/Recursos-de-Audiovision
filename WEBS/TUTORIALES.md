@@ -21,4 +21,4 @@ que se puede encontrar varios de la suite Adobe, de Nuke y Avid entre
 otros. Lo malo es que es paga, y la versión trial solo deja ver algunos
 capítulos de cada curso.  
 
-[*VOLVER A PAGINAS WEB POR CATEGORIA*](PAGINAS_WEB.md)
+[*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)
