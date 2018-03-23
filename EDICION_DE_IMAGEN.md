@@ -8,6 +8,13 @@ funciona también con capas y es bastante similar en cuanto a
 funcionalidad.  
 **LINK:** ***<https://www.gimp.org/>***  
 
+**-Krita (Windows, Linux):**  
+Krita es un software open source muy potente, pensado para ilustradores y diseñadores.  
+Permite crear y editar imagenes así como tambien trabajar con
+graficos de vectores. Esta pensado para hacer matte painting, concept art, comics
+e ilustraciones.  
+**LINK:** ***<https://krita.org/>***  
+
 **-Inkscape (Windows, Linux, Mac):**  
 Inkscape es un software libre y open source que sirve para crear y editar imagenes vectoriales. Si Gimp es el reemplazo ideal para Photoshop, Inkscape lo es para el Illustrator.  
 **LINK:** ***<https://inkscape.org/es/>***  
