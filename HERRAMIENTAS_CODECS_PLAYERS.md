@@ -67,15 +67,15 @@ formatos así como también reproducir ese tipo de contenido.
 **LINK:** ***<http://www.erightsoft.com/SUPER.html>***
 
 **-FFMPEG Batch converter (Windows):**
-Otro gui de FFMPEG que permite convertir multiples videos en simultaneo a distintos formatos.
+Otro gui de FFMPEG que permite convertir multiples videos en simultaneo a distintos formatos.  
 **LINK:** ***<https://sourceforge.net/projects/ffmpeg-batch/>***  
-  
+
 **-FFASTrans (Windows):**  
 Una gui gratuita de FFMPEG y AVISynth que permite armar workflows automaticos de transcoding
 basados en nodos al estilo similar de Telestream Vantage (un sistema que vale decenas
 de miles de dolares). Permite ejecutarse como servicio y ser controlado via
-Rest API, asi como realizar la transcodificacion usando un farm de equipos, quemado de timecode,
-de logos, bumpers, closes, etc. Una herramienta gratis excelente y única en su estilo.  
+Rest API, asi como realizar la transcodificacion usando un farm de equipos, realizar quemado de timecode,
+insercion de logos, bumpers, closes, etc. Una herramienta gratis excelente y única en su estilo.  
 **LINK:** ***<http://www.ffastrans.com>***  
 
 **-OpenDCP (Windows, Linux, Mac):**  

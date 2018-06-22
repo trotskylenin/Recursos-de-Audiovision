@@ -16,13 +16,20 @@ profesionales.
 **LINK:** ***<https://www.lwks.com/>***  
 
 **-Cinelerra (Linux):**  
-Este es el otro editor de video más o menos potable que corre en
+Este es otro editor de video más o menos potable que corre en
 sistemas basados en Linux. En este caso si es 100% free y open source.
 La interfaz es bastante antigua pero los controles y forma de edición
 rememoran al Avid Media Composer y tiene algún que otro efecto pero nada
 del otro mundo. Dicen ser los primeros en crear un editor de video de 64
 bits.  
 **LINK:** ***<http://cinelerra.org/>***  
+
+**-Kdenlive (Linux, MAC ):**
+Un editor de video pensado para correr en el sistema de interfaz grafica KDE,
+pero que tambien funciona en Linux con GNOME y en algunos otros sistemas operativos.
+Es de los mejorcitos gratuitos que hay gratuitos y que esta mas o menos actualizado,
+aunque sigue estando en un nivel muy amateur si se lo compara con los NLE comerciales.    
+**LINK:** ***<https://kdenlive.org/en/>***
 
 **-Avid Media Composer (Windows, Mac):**  
 Este es el editor que aun hoy en día sigue siendo líder en toda la
