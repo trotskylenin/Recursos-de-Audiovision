@@ -31,6 +31,14 @@ Es de los mejorcitos gratuitos que hay y que esta mas o menos actualizado,
 aunque sigue estando en un nivel muy amateur si se lo compara con los NLE comerciales.    
 **LINK:** ***<https://kdenlive.org/en/>***
 
+**-Flowblade (Linux):**  
+Un editor de video para Linux que consume pocos recursos y es minimalista.
+Basado en FFMPEG y MLT, promete enfocarse en la edición y dejar de lado las
+funcionalidades de postproduccion complejas de otros editores, ganando así en
+rapidez y estabilidad. Permite ser utilizado casi completamente con shortcuts, por
+lo que puede ser una buena alternativa libre para los editores de Avid en Linux.  
+**LINK:** ***<https://jliljebl.github.io/flowblade/>***  
+  
 **-Avid Media Composer (Windows, Mac):**  
 Este es el editor que aun hoy en día sigue siendo líder en toda la
 industria televisiva y cinematográfica, si bien de a poco está empezando

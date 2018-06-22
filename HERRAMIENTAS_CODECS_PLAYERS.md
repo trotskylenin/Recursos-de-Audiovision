@@ -66,7 +66,7 @@ Un gui de FFMPEG que permite convertir a video 3D en distintos
 formatos así como también reproducir ese tipo de contenido.  
 **LINK:** ***<http://www.erightsoft.com/SUPER.html>***
 
-**-FFMPEG Batch converter (Windows):**
+**-FFMPEG Batch converter (Windows):**  
 Otro gui de FFMPEG que permite convertir multiples videos en simultaneo a distintos formatos.  
 **LINK:** ***<https://sourceforge.net/projects/ffmpeg-batch/>***  
 
