@@ -24,10 +24,10 @@ del otro mundo. Dicen ser los primeros en crear un editor de video de 64
 bits.  
 **LINK:** ***<http://cinelerra.org/>***  
 
-**-Kdenlive (Linux, MAC ):**
-Un editor de video pensado para correr en el sistema de interfaz grafica KDE,
+**-Kdenlive (Linux, Mac, Windows):**  
+Un editor de video pensado para correr en sistemas Linux con interfaz grafica KDE,
 pero que tambien funciona en Linux con GNOME y en algunos otros sistemas operativos.
-Es de los mejorcitos gratuitos que hay gratuitos y que esta mas o menos actualizado,
+Es de los mejorcitos gratuitos que hay y que esta mas o menos actualizado,
 aunque sigue estando en un nivel muy amateur si se lo compara con los NLE comerciales.    
 **LINK:** ***<https://kdenlive.org/en/>***
 
