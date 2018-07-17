@@ -7,7 +7,7 @@ Soporta multiples cámaras y escenas, captura de escritorio o de paginas web,
 generación de caracteres en tiempo real, grabación, entrada por capturadoras de video,
 camara web, picture in picture, etc.
 Es el reemplazo perfecto para software privativo como Telestream Wirecast que
-cumplen la misma función.
+cumplen la misma función.  
 **LINK:** ***<https://obsproject.com/>***  
 
 **-Kaltura Community Edition (Linux):**  
@@ -24,5 +24,5 @@ soluciones pagas como MPX The Platform, Ooyala y Wowza Transcode Engine entre
 otros.  
 **LINK:** ***<http://www.kaltura.org/>***  
 
-  
+
 [*VOLVER AL INDICE*](README.md)
