@@ -38,7 +38,7 @@ funcionalidades de postproduccion complejas de otros editores, ganando así en
 rapidez y estabilidad. Permite ser utilizado casi completamente con shortcuts, por
 lo que puede ser una buena alternativa libre para los editores de Avid en Linux.  
 **LINK:** ***<https://jliljebl.github.io/flowblade/>***  
-  
+
 **-Avid Media Composer (Windows, Mac):**  
 Este es el editor que aun hoy en día sigue siendo líder en toda la
 industria televisiva y cinematográfica, si bien de a poco está empezando
@@ -49,19 +49,26 @@ rígido y "burocrático" (Casi soviético diría), es muy difícil
 convencerlo de pasarse a otro, más que nada por lo eficiente que es con
 los shortcuts y el manejo de la media, por lo que es a mi parecer casi
 un obligatorio en las carreras de edición.  
-En realidad este no es un software ni libre ni gratuito, pero sí se
-puede descargar de forma gratuita el trial y usarlo sin limitaciones por
-30 días... pero hay un truquito por si pasaron los 30 días y todavía
-necesitas seguir
-probándolo!  
+Si bien la version profesional es paga, hay desde hace poco tiempo disponible
+una version free que sirve para comenzar a trabajar y aprenderlo. La limitacion
+mayor esta en el tipo de exports que soporta (solo h264 en 1920x1080).  
+En caso de tener versiones anteriores al 8 en el modo trial, hay un truco:
 Borrando las carpetas ocultas C:\\ProgramData\\Avid\\SWL y
 C:\\ProgramData\\Avid\\Licenses, el trial se reinicia y se puede
 utilizar por 30 días más. Esto se puede repetir cuantas veces sea
 necesario. Lo malo es que no se pueden abrir proyectos creados con
 anterioridad a la fecha del reseteo, pero algo es algo y más si la idea
 es solo aprender a usarlo.  
-**LINK:** ***<http://connect.avid.com/media-composer-trial.html>***  
+**LINK VERSION FREE:** ***<http://www.avid.com/media-composer-first>***  
+**LINK TRIAL:** ***<http://connect.avid.com/media-composer-trial.html>***  
 
+**-Ardour (Windows, Linux, Mac):**  
+Ardour es un DAW (digital audio workstation) que sirve de alternativa a otros
+sistemas propietarios como Protools o Nuendo. Es bastante potente y si bien
+es completamente libre y gratuito para Linux, los usuarios de Windows tienen
+una demo que se silencia cada 10 minutos.  
+**LINK:** ***<https://ardour.org/>***  
+  
 **-Audacity (Windows, Linux, Mac y otros):**  
 El Soundforge/Audition de los pobres. Audacity es un conocido editor y
 grabador de sonido que cumple los requisitos básicos para el que
