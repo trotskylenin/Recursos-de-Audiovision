@@ -27,6 +27,6 @@ y el formato.
 
 - [SUBTITULOS](SUBTITULOS.md)  
 
-- [STREAMING](STREAMING.md)  
+- [STREAMING Y OTT](STREAMING_Y_OTT.md)  
 
 ``` TODO: Agregar imagenes a cada uno de los programas ```
