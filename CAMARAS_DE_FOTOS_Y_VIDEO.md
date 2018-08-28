@@ -60,5 +60,14 @@ de cámaras profesionales como las Arri Alexa, las Red y las Sony XDCAM
 entre otras.  
 **LINK:** ***<http://www.avid.com/plugins/ama-plugins>***  
 
+**-qDSLRDashboard (Canon/Nikon/Sony DSLRs):**  
+qDslrDashboard es una aplicación multiplataforma para controlar cámaras Nikon,
+Canon y Sony. Permite comunicarse con la cámara por USB o IP (si la camara lo soporta).
+Actualmente qDslrDashboard está disponible para plataformas Android, iOS, Linux,
+OSX y Windows. La versión de Linux, OSX y Windows es gratuita.
+Tambien hay una version para Raspbian por lo que que puede instalarse en una
+Raspberry Pi, siendo ideal para realizar timelapse automatico de forma remota.
+qDslrDashboard admite múltiples conexiones de cámara DSLR a la vez.  
+**LINK:** ***<https://dslrdashboard.info/>***  
 
 [*VOLVER AL INDICE*](README.md)
