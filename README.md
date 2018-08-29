@@ -1,5 +1,3 @@
-# RECURSOS GRATUITOS PARA TRABAJAR CON CONTENIDO AUDIOVISUAL #
-
 En este repositorio se puede encontrar una lista de páginas web y de
 software (clasificado por su función) que se puede utilizar
 gratuitamente (salvo algunas pocas excepciones) para trabajar con video,
