@@ -125,7 +125,7 @@ con Couchpotato y Sickrage!)
 Este potente script desarrollado en Python de codigo abierto y gratuito permite descargar rapidamente video de mas de 200 paginas web incluyendo Facebook, Youtube, Vimeo y otras.
 Su funcionamiento es por linea de comando, pero es bastante sencillo de usar. El unico prerequisito que tiene es instalar previamente Python2 o 3.  
 **LINK:** ***<https://yt-dl.org/>***  
-**EXPLICACION DE INSTALACION Y USO:** ***https://www.genbeta.com/a-fondo/asi-es-youtube-dl-un-software-libre-para-bajar-videos-de-youtube-o-facebook-desde-la-linea-de-comandos***  
+**EXPLICACION DE INSTALACION Y USO:** ***<https://www.genbeta.com/a-fondo/asi-es-youtube-dl-un-software-libre-para-bajar-videos-de-youtube-o-facebook-desde-la-linea-de-comandos>***  
 
 **-Avidd (Android):**  
 Interfaz gráfica de Youtube-dl que corre en cualquier celular con Android. Permite bajar facilmente videos de muchisimas webs.
