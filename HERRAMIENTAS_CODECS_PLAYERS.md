@@ -119,7 +119,17 @@ clientes para android, smarts tv, playstation3 y largo etc. Un golazo
 para el coleccionista de cine y series (principalmente si se lo combina
 con Couchpotato y Sickrage!)  
 **LINK:** ***<https://www.plex.tv>***  
-**PARA LOS CURIOSOS:** ***<https://github.com/htpcBeginner/AtoMiC-ToolKit>***
+**PARA LOS CURIOSOS:** ***<https://github.com/htpcBeginner/AtoMiC-ToolKit>***  
 
+**-Youtube-dl (Windows, Linux, Mac):**  
+Este potente script desarrollado en Python de codigo abierto y gratuito permite descargar rapidamente video de mas de 200 paginas web incluyendo Facebook, Youtube, Vimeo y otras.
+Su funcionamiento es por linea de comando, pero es bastante sencillo de usar. El unico prerequisito que tiene es instalar previamente Python2 o 3.
+**LINK:** ***<https://yt-dl.org/>***  
+**EXPLICACION DE INSTALACION Y USO:** ***https://www.genbeta.com/a-fondo/asi-es-youtube-dl-un-software-libre-para-bajar-videos-de-youtube-o-facebook-desde-la-linea-de-comandos***  
+
+**-Avidd (Android):**  
+Interfaz gráfica de Youtube-dl que corre en cualquier celular con Android. Permite bajar facilmente videos de muchisimas webs.
+Por razones obvias no está disponible en el Google Play Store, por lo que hay que bajar directamente el apk desde la web e instalarlo en el celular.
+**LINK:** ***<http://www.aviddapp.com/>***  
 
 [*VOLVER AL INDICE*](README.md)
