@@ -13,11 +13,11 @@ recursos para Nuke.
 
 **-BLENDERIZAD@S -** ***<https://blender3drecursos.wordpress.com/>***  
 Blog en español con distintos tutoriales y noticias sobre Blender y variedad de
-modelos, texturas y addons entre otros recursos.
+modelos, texturas y addons entre otros recursos.  
 
 **-Blender Guru -** ***<https://www.blenderguru.com/>***  
 Excelente página con canal de Youtube propio que posee una gran cantidad de videotutoriales sobre Blender, desde el uso básico hasta mas avanzado uso de simulaciones, particulas, iluminación y rendering.  
-  
+
 **-LYNDA -** ***<https://www.lynda.com>***  
 Sitio de video tutoriales de una gran variedad de software, entre los
 que se puede encontrar varios de la suite Adobe, de Nuke y Avid entre
