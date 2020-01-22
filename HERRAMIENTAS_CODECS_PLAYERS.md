@@ -132,4 +132,12 @@ Interfaz gráfica de Youtube-dl que corre en cualquier celular con Android. Perm
 Por razones obvias no está disponible en el Google Play Store, por lo que hay que bajar directamente el apk desde la web e instalarlo en el celular.  
 **LINK:** ***<http://www.aviddapp.com/>***  
 
+**-SpotifyDownload (Windows, Linux, Mac):**
+Spotify Download es un script desarrollado completamente en Go Lang que hace uso de la descarga de Youtube y la posibilidad de exportar las listas de Spotify en formato .json para descargar de forma automatica todas las canciones de una Playlist de Spotify desde Youtube.  
+El funcionamiento es bastante sencillo, aunque requiere tener Spotify Premium y conocimientos básicos de uso de CMD / terminal:  
+Primero se abre en Spotify la playlist que se desea descargar, se presiona en la opcion de compartir y luego en la que dice "Copiar enlace de la lista".  
+Ya con ese link copiado se ejecuta desde la terminal del sistema operativo el script y cuando el script lo solicita se le pega la url de la lista copiada y se le da Enter.  
+El programa se encargara de generar la carpeta con el nombre de la playlist y bajar todas las canciones que pueda de Youtube y luego convertirlas a mp3 usando FFMPEG. Probablemente no encuentre todas, pero nos ahorrará el trabajo de descargar manualmente una buena cantidad de ellas.  
+**LINK:** ***<https://github.com/schollz/spotifydownload>***  
+
 [*VOLVER AL INDICE*](README.md)
