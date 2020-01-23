@@ -41,7 +41,7 @@ una versión gratuita cuya única limitación es la imposibilidad de
 trabajar material 4K. Para hacerlo funcionar es necesario tener una
 placa NVIDIA que soporte CUDA 3.0 y los drivers propietarios
 correspondientes.  
-**LINK:** ***<https://www.blackmagicdesign.com/products/davinciresolve>***
+**LINK:** ***<https://www.blackmagicdesign.com/products/davinciresolve>***  
 **COMO INSTALARLO EN DEBIAN/UBUNTU:** ***<https://www.linuxuprising.com/2018/06/how-to-install-davinci-resolve-15-in.html>***  
 
 **-Voodoo Camera Tracker (Windows, Linux):**  
