@@ -32,6 +32,10 @@ Es de los mejorcitos gratuitos que hay y que esta mas o menos actualizado,
 aunque sigue estando en un nivel muy amateur si se lo compara con los NLE comerciales.    
 **LINK:** ***<https://kdenlive.org/en/>***
 
+**-Olive (Linux, Mac, Windows):**  
+Olive es un editor de video relativamente nuevo, que propone una buena e interesante alternativa a KDE. Si bien su desarrollo todavía se encuentra en la fase Alfa, el mismo se encuentra bastante activo, lo que lo convierte en un buen proyecto para seguir y ver como avanza en el futuro próximo.  
+**LINK:** ***<https://www.olivevideoeditor.org/index.php>***  
+
 **-Flowblade (Linux):**  
 Un editor de video para Linux que consume pocos recursos y es minimalista.
 Basado en FFMPEG y MLT, promete enfocarse en la edición y dejar de lado las
