@@ -27,4 +27,10 @@ de Zbrush quien lo mantuvo gratuito como complemento de su software
 comercial.  
 **LINK:** ***<http://pixologic.com/sculptris/>***  
 
+**-OpenToonz (Windows, Mac, Linux):**  
+OpenToonz es una version free-opensource basada en el software italiano de animación 2D "Toonz".  
+Cuenta con dos versiones: una mantenida por la empresa Dwango, en colaboración con Studio Ghibli y Digital Video, que es compatible para Windows y Mac; y otra llamada Morevna, desarrollada por la comunidad, con soporte para GNU/Linux y algunas funciones añadidas.  
+**LINK:** ***<https://opentoonz.github.io/es/index.html>***  
+**LINK (Version Morevna):** ***<https://morevnaproject.org/opentoonz/>***  
+
 [*VOLVER AL INDICE*](README.md)
