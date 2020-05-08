@@ -1,6 +1,6 @@
 ## INTELIGENCIA ARTIFICIAL ##
 
-**-Avatirify (Windows, Linux, Mac):***
+**-Avatirify (Windows, Linux, Mac):**  
 Avatirify utiliza inteligencia artificial para aplicar nuestro gestos en distintas caras de famosos en tiempo real y usarlas como avatares en aplicaciones de videoconferencia como Zoom o Skype. Viene con 9 caras de famosos de ejemplo para poder utilizar.  
 **LINK:** ***<https://github.com/alievk/avatarify>***  
 
@@ -17,7 +17,7 @@ Este software es ideal para modernizar fotografias o videos antiguos.
 **EXPLICACION DE USO (En Ingles):** ***<https://www.youtube.com/watch?v=VaEl0faDw38>***  
 **LINK:** ***<https://github.com/jantic/DeOldify>***  
 
-**-DeepRemaster (Linux):**
+**-DeepRemaster (Linux):**  
 Este codigo fuente de una investigación realizada para un paper presentado en el SIGGRAPH ASIA 2019 permite remasterizar semiautomáticamente videos antiguos utilizando Deep Convolutional Networks (un tipo de redes neuronales). Esta red es entrenada con vides de deterioro basados en ejemplos, lo que luego permite eliminar automáticamente los ruidos de la película, mejorar el contraste y la nitidez, y agregar color basado en marcos de color de referencia creados manualmente.  
 **LINK:** ***<https://github.com/satoshiiizuka/siggraphasia2019_remastering>***  
 
@@ -40,7 +40,7 @@ Tambien es posible correr este software en plataformas de computación en la nub
 **-FaceSwap (Windows, Linux, Mac):**  
 Faceswap también se autoproclama como el líder del software multiplataforma gratuito y de código abierto de DeepFake. El mismo proporciona diversos algoritmos de inteligencia artificial para hacer el reemplazo de caras y usando una interfaz gráfica amigable con el usuario, que lo hace mas simple de usar que DeepFaceLab.
 Se caracteriza además por su buena y completa documentación.  
-**LINK:** ***https://faceswap.dev/?fbclid=IwAR2k9pwRHVotKllmQbUZwlM_5x7z06LbkQ4QejSmzbpNrHMjZBtGytngLfg***
+**LINK:** ***<https://faceswap.dev/?fbclid=IwAR2k9pwRHVotKllmQbUZwlM_5x7z06LbkQ4QejSmzbpNrHMjZBtGytngLfg>***  
 
 **-Jukebox (Linux, Google Colab):**  
 Jukebox de OpenAI es una red neuronal que genera nueva música (incluyendo canto) a partir de ejemplos que entrenan un modelo previamente. Los resultados son entre creepies y muy interesantes.  
