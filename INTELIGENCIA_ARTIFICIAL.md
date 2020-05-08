@@ -1,5 +1,9 @@
 ## INTELIGENCIA ARTIFICIAL ##
 
+**-Avatirify (Windows, Linux, Mac):***
+Avatirify utiliza inteligencia artificial para aplicar nuestro gestos en distintas caras de famosos en tiempo real y usarlas como avatares en aplicaciones de videoconferencia como Zoom o Skype. Viene con 9 caras de famosos de ejemplo para poder utilizar.  
+**LINK:** ***<https://github.com/alievk/avatarify>***  
+
 **-DAIN-APP (Windows):**  
 DAIN-APP es una aplicación gratuita con interfaz gráfica que utiliza de fondo el codigo de DAIN (Depth Aware Video Frame Interpolation).
 DAIN es básicamente un algoritmo de IA que permite aumentar la resolución temporal o cadencia de cuadros por segundo que tiene un video.
