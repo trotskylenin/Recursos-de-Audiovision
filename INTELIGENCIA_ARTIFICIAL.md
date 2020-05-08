@@ -21,7 +21,6 @@ Este software es ideal para modernizar fotografias o videos antiguos.
 Este codigo fuente de una investigación realizada para un paper presentado en el SIGGRAPH ASIA 2019 permite remasterizar semiautomáticamente videos antiguos utilizando Deep Convolutional Networks (un tipo de redes neuronales). Esta red es entrenada con vides de deterioro basados en ejemplos, lo que luego permite eliminar automáticamente los ruidos de la película, mejorar el contraste y la nitidez, y agregar color basado en marcos de color de referencia creados manualmente.  
 **LINK:** ***<https://github.com/satoshiiizuka/siggraphasia2019_remastering>***  
 
-
 **-Gigapixel AI for video (Windows):**  
 Gigapixel AI for video es un programa pago de la suite de aplicaciones Topaz, que por medio del uso de algoritmos de inteligencia artificial permite escalar videos a resoluciones de hasta 8K, recreando los píxeles faltantes reconociendo los elementos de la imagen.
 Los resultados que se obtienen son bastante superiores a los que se pueden obtener con los metodos tradicionales de interpolación de pixeles.
@@ -42,6 +41,10 @@ Tambien es posible correr este software en plataformas de computación en la nub
 Faceswap también se autoproclama como el líder del software multiplataforma gratuito y de código abierto de DeepFake. El mismo proporciona diversos algoritmos de inteligencia artificial para hacer el reemplazo de caras y usando una interfaz gráfica amigable con el usuario, que lo hace mas simple de usar que DeepFaceLab.
 Se caracteriza además por su buena y completa documentación.  
 **LINK:** ***https://faceswap.dev/?fbclid=IwAR2k9pwRHVotKllmQbUZwlM_5x7z06LbkQ4QejSmzbpNrHMjZBtGytngLfg***
+
+**-Jukebox (Linux, Google Colab):**  
+Jukebox de OpenAI es una red neuronal que genera nueva música (incluyendo canto) a partir de ejemplos que entrenan un modelo previamente. Los resultados son entre creepies y muy interesantes.  
+**LINK:** ***<https://github.com/openai/jukebox/>***  
 
 **-The Sound of Pixels (Linux):**  
 ECCV18, también conocido como "The Sound of Pixels", es un algoritmo de IA que aprende de qué zonas de un video provienen los sonidos y permite separar en pistas esas zonas para poder luego hacer retoques en la mezcla.  
