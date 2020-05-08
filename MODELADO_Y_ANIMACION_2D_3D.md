@@ -15,6 +15,11 @@ Cuenta con dos versiones: una mantenida por la empresa Dwango, en colaboración 
 **LINK:** ***<https://opentoonz.github.io/es/index.html>***  
 **LINK (Version Morevna):** ***<https://morevnaproject.org/opentoonz/>***  
 
+**-EBSynth (Windows):**  
+EbSynth es un software gratuito que mediante captura de movimiento 2D permite transferir el estilo de un fotograma a todo un video.
+Puntualmente pensado para animadores, EbSynth facilita todo el proceso de animación: Simplemente con tomar un video, extraer algunos cuadros de ese video y pintarlos, les permite luego simplemente generar un video final manteniendo el estilo de los cuadros pintados.  
+**LINK:** ***<https://ebsynth.com/>***  
+
 **-Blender (Windows, Linux, Mac):**  
 El mejor programa de modelado y animación 2D/3D gratuito que existe a mi
 parecer. No solo sirve para modelar y animar sino que también incluye
