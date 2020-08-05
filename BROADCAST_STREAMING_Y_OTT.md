@@ -1,4 +1,4 @@
-## STREAMING Y OTT ##
+## BROADCAST, STREAMING Y OTT ##
 
 **-OBS (Windows, Linux, Mac):**  
 Open Broadcaster Software es el software gratuito de codigo abierto por excelencia
@@ -23,6 +23,11 @@ Un software completisimo para ser gratuito, que compite directamente con
 soluciones pagas como MPX The Platform, Ooyala y Wowza Transcode Engine entre
 otros.  
 **LINK:** ***<http://www.kaltura.org/>***  
+
+**-CasparCG (Windows,Linux):**  
+CasparCG es un servidor de playout gratuito y open source que permite hacer broadcasting de un canal de TV, incluyendo la integración y composicion en tiempo real de graficas, audio y video de tipo profesional.  
+Aclama ser utilizado en broadcasting profesional 24/7 por la mayoria de los broadcasters de Europa. Es compatible con placas Blackmagic y solo corre en procesadores Intel.  
+**LINK:** ***<https://casparcg.com/>***  
 
 
 [*VOLVER AL INDICE*](README.md)

@@ -22,7 +22,8 @@ La interfaz es bastante antigua pero los controles y forma de edición
 rememoran al Avid Media Composer y tiene algún que otro efecto pero nada
 del otro mundo. Dicen ser los primeros en crear un editor de video de 64
 bits.  
-**LINK:** ***<http://cinelerra.org/>***  
+**LINK (RAMA GG - mas actualizada):** ***<http://cinelerra-gg.org/>***  
+**LINK (RAMA CV):** ***<http://cinelerra.org/>***  
 
 **-Kdenlive (Linux, Mac, Windows):**  
 Un editor de video pensado para correr en sistemas Linux con interfaz grafica KDE,
@@ -30,6 +31,10 @@ pero que tambien funciona en Linux con GNOME y en algunos otros sistemas operati
 Es de los mejorcitos gratuitos que hay y que esta mas o menos actualizado,
 aunque sigue estando en un nivel muy amateur si se lo compara con los NLE comerciales.    
 **LINK:** ***<https://kdenlive.org/en/>***
+
+**-Olive (Linux, Mac, Windows):**  
+Olive es un editor de video relativamente nuevo, que propone una buena e interesante alternativa a KDE. Si bien su desarrollo todavía se encuentra en la fase Alfa, el mismo se encuentra bastante activo, lo que lo convierte en un buen proyecto para seguir y ver como avanza en el futuro próximo.  
+**LINK:** ***<https://www.olivevideoeditor.org/index.php>***  
 
 **-Flowblade (Linux):**  
 Un editor de video para Linux que consume pocos recursos y es minimalista.
@@ -68,7 +73,7 @@ sistemas propietarios como Protools o Nuendo. Es bastante potente y si bien
 es completamente libre y gratuito para Linux, los usuarios de Windows tienen
 una demo que se silencia cada 10 minutos.  
 **LINK:** ***<https://ardour.org/>***  
-  
+
 **-Audacity (Windows, Linux, Mac y otros):**  
 El Soundforge/Audition de los pobres. Audacity es un conocido editor y
 grabador de sonido que cumple los requisitos básicos para el que

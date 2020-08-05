@@ -4,10 +4,26 @@
 Synfig Studio es software open source que permite realizar animaciones con imagenes de vectores en 2D al estilo de Adobe Flash / Animate. El resultado se puede exportar en video. Ideal para los que quieren hacer dibujitos animados sin gastar mucho.  
 **LINK:** ***<http://synfig.org/>***  
 
+**-Enve (Windows, Linux, Mac):**  
+Enve es un software open source de animación 2D que recién se encuentra en su fase alfa pero promete mucho. Fue creado por un diseñador gráfico ante su decepción con Synfig. Tiene una interfaz gráfica muy similar a la de After Effects y es compatible con los archivos de vectores SVG.
+Sus shortcuts están basados en una mezcla de los shortcuts de Blender y los de Inkscape. Muy recomendable para estar atento a sus avances.  
+**LINK:** ***<https://maurycyliebner.github.io/>***  
+
+**-OpenToonz (Windows, Mac, Linux):**  
+OpenToonz es una version free-opensource basada en el software italiano de animación 2D "Toonz".  
+Cuenta con dos versiones: una mantenida por la empresa Dwango, en colaboración con Studio Ghibli y Digital Video, que es compatible para Windows y Mac; y otra llamada Morevna, desarrollada por la comunidad, con soporte para GNU/Linux y algunas funciones añadidas.  
+**LINK:** ***<https://opentoonz.github.io/es/index.html>***  
+**LINK (Version Morevna):** ***<https://morevnaproject.org/opentoonz/>***  
+
+**-EBSynth (Windows):**  
+EbSynth es un software gratuito que mediante captura de movimiento 2D permite transferir el estilo de un fotograma a todo un video.
+Puntualmente pensado para animadores, EbSynth facilita todo el proceso de animación: Simplemente con tomar un video, extraer algunos cuadros de ese video y pintarlos, les permite luego simplemente generar un video final manteniendo el estilo de los cuadros pintados.  
+**LINK:** ***<https://ebsynth.com/>***  
+
 **-Blender (Windows, Linux, Mac):**  
-El mejor programa de modelado y animación 3D gratuito que existe a mi
+El mejor programa de modelado y animación 2D/3D gratuito que existe a mi
 parecer. No solo sirve para modelar y animar sino que también incluye
-herramientas de sculpting y un game engine que funciona con lenguaje
+herramientas de sculpting, edicion de video, composicion y un game engine que funciona con lenguaje
 Python por lo que es posible hacer video juegos si se tiene un poco de
 experiencia en programación.  
 **LINK:** ***<https://www.blender.org/>***  

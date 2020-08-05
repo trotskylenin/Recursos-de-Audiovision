@@ -70,4 +70,14 @@ Raspberry Pi, siendo ideal para realizar timelapse automatico de forma remota.
 qDslrDashboard admite múltiples conexiones de cámara DSLR a la vez.  
 **LINK:** ***<https://dslrdashboard.info/>***  
 
+**-DigiCamcontrol (Canon/Nikon/Sony DSLRs):**  
+DigiCamControl es una aplicación disponible solo para Windows que permite controlar camaras DSLR de forma remota por USB.  
+**LINK:** ***<http://digicamcontrol.com/>***  
+**CAMARAS SOPORTADAS:** ***<http://digicamcontrol.com/cameras>***  
+
+**-Entangle (Canon/Nikon/Sony y otras DSLRs):**   
+Entangle es una aplicación disponible solo para Linux que permite controlar camaras DSLR de forma remota por USB.
+Se la puede descargar actualmente a través del centro de software de las distintas distribuciones de Linux.  
+**LINK:** ***<https://entangle-photo.org/>***  
+
 [*VOLVER AL INDICE*](README.md)
