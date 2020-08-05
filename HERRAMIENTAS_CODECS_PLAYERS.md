@@ -127,6 +127,10 @@ Su funcionamiento es por linea de comando, pero es bastante sencillo de usar. El
 **LINK:** ***<https://yt-dl.org/>***  
 **EXPLICACION DE INSTALACION Y USO:** ***<https://www.genbeta.com/a-fondo/asi-es-youtube-dl-un-software-libre-para-bajar-videos-de-youtube-o-facebook-desde-la-linea-de-comandos>***  
 
+**-Youtube-DLG (Windows, Linux, Mac):**  
+Youtube-DLG es una interfaz gráfica de Youtube-dl. Permite descargar videos de varias paginas web, incluyendo Youtube, Vimeo, Facebook y otras, pero en vez de funcionar por linea de comandos como youtube-dl, tiene una interfaz intuitiva, comoda, facil y rapida para el usuario final. La facilidad de actualizar el binario de Youtube-dl desde la misma aplicacion, es otra gran ventaja que tiene este software.  
+**LINK:** ***<https://mrs0m30n3.github.io/youtube-dl-gui/>***  
+
 **-Avidd (Android):**  
 Interfaz gráfica de Youtube-dl que corre en cualquier celular con Android. Permite bajar facilmente videos de muchisimas webs.
 Por razones obvias no está disponible en el Google Play Store, por lo que hay que bajar directamente el apk desde la web e instalarlo en el celular.  
