@@ -159,4 +159,12 @@ Programa gratuito y de código abierto, con una versión portable, que permite g
 Permite sacar el video resultante en distintos formatos, pero para ello necesita tener instalado previamente FFMPEG y configurar la ruta donde se encuentra.  
 **LINK:** ***<https://mathewsachin.github.io/Captura/>***  
 
+**-Flameshot (Linux):**  
+Programa gratuito y de código abierto para tomar capturas de pantallas y hacer anotaciones. Se consigue precompilado para Linux, para Windows hay que compilarlo manualmente, aunque para este último sistema existen alternativas mas completas como Greenshot.  
+**LINK:** ***<https://github.com/flameshot-org/flameshot>***  
+
+**-Greenshot (Windows):**  
+Programa gratuito para tomar capturas de pantallas (o partes de ella) y hacer anotaciones sobre ellas. Solo corre en Windows.  
+**LINK:** ***<https://getgreenshot.org/>***  
+
 [*VOLVER AL INDICE*](README.md)
