@@ -156,7 +156,7 @@ Considerado "La navaja suiza del storage en la red", este programa por linea de 
 
 **-Captura (Windows):**  
 Programa gratuito y de código abierto, con una versión portable, que permite grabar la pantalla de manera muy sencilla, asi como tambien el audio del equipo, las teclas presionadas y los clicks del mouse. Interesante alternativa gratuita a Camstasia.
-Permite sacar el video resultante en distintos formatos, pero para ello necesita tener instalado previamente FFMPEG y configurar la ruta donde se encuentra.
+Permite sacar el video resultante en distintos formatos, pero para ello necesita tener instalado previamente FFMPEG y configurar la ruta donde se encuentra.  
 **LINK:** ***<https://mathewsachin.github.io/Captura/>***  
 
 [*VOLVER AL INDICE*](README.md)
