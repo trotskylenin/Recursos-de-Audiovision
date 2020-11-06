@@ -154,4 +154,9 @@ La instalacion se hace con pip por lo que requiere conocimientos de programacion
 Considerado "La navaja suiza del storage en la red", este programa por linea de comandos permite administrar contenido en mas de 40 servicios distintos de almacenamiento en la nube, incluyendo entre otros Amazon S3, Mega, Box, Dropbox, Google Drive, OneDrive, ownCloud, Yandex, SugarSync, etc.  
 **LINK:** ***<https://rclone.org/>***  
 
+**-Captura (Windows):**  
+Programa gratuito y de código abierto, con una versión portable, que permite grabar la pantalla de manera muy sencilla, asi como tambien el audio del equipo, las teclas presionadas y los clicks del mouse. Interesante alternativa gratuita a Camstasia.
+Permite sacar el video resultante en distintos formatos, pero para ello necesita tener instalado previamente FFMPEG y configurar la ruta donde se encuentra.
+**LINK:** ***<https://mathewsachin.github.io/Captura/>***  
+
 [*VOLVER AL INDICE*](README.md)
