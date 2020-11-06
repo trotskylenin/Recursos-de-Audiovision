@@ -10,7 +10,11 @@ postproducción. En este foro se pueden encontrar un montón de programas
 de video con sus cracks pero hay que estar registrado para ver los
 links. También se pueden encontrar materiales legales e interesantes, ya
 que todos los grosos internacionales de los CGI y de la postpro los
-suelen frecuentar.
+suelen frecuentar.  
+
+**-REPACK.ME -** ***<https://repack.me/>***  
+Página rusa donde se sube software "reempaquetado" (esto quiere decir pre-crackeado y a veces con instaladores modificados). Si bien tiene todo tipo de Software, es conocida por tener siempre disponibles para bajar las ultimas versiones de la suite Creative Cloud de Adobe pre-crackeada.
+Lo unico malo que la página está en ruso y necesita usuario para mostrar los links, pero usando el Google Tranlaste para traducir la página en tiempo real se hace facil navegarla.  
 
 **-FXFACTORY -** ***<https://fxfactory.com/>***  
 Tienda de plugins pagos y gratuitos para distintos softwares de
