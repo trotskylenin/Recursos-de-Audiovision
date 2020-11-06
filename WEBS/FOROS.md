@@ -15,4 +15,7 @@ Foro en español más conocido de usuarios de cámaras Canon.
 Foro en ingles sobre cámaras Nikon, enfocado en cómo hacer rendir más y
 customizar estos equipos.  
 
+**-BLENDER COMMUNITY -** ***<https://blender.community/c/>***  
+El canal oficial de las comunidades de Blender.  
+
 [*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)
