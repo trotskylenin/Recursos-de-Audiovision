@@ -18,4 +18,14 @@ esas conversiones, pero es pago.
 Página de donde se pueden descargar gratuitamente una enorme cantidad de
 materiales para utilizar con el renderer 3d Vray.  
 
+**-HDRI HAVEN -** ***<https://hdrihaven.com/>***  
+Página para descargar imágenes HDR gratuitas para iluminar escenas 3D.  
+
+**-TEXTURE HAVEN -** ***<https://texturehaven.com/>***  
+Página para descargar texturas gratuitas para utilizar en modelos 3D.  
+
+**-3D MODEL HAVEN -** ***<https://3dmodelhaven.com/>***  
+Página para descargar modelos 3D gratuitos para Blender o 3DsMax.  
+
+
 [*VOLVER A PAGINAS WEB POR CATEGORIA*](../PAGINAS_WEB.md)
