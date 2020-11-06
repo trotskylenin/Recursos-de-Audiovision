@@ -18,6 +18,9 @@ modelos, texturas y addons entre otros recursos.
 **-BLENDER GURU -** ***<https://www.blenderguru.com/>***  
 Excelente página con canal de Youtube propio que posee una gran cantidad de videotutoriales sobre Blender, desde el uso básico hasta mas avanzado uso de simulaciones, particulas, iluminación y rendering.  
 
+**-BLENDER SECRETS -** ***<https://www.blendersecrets.org/>***  
+Página muy recomendada para aprender todos los días un nuevo tip de Blender. Para ello solo basta con suscribirse a su feed de correo. Además podemos encontrar en ella tutoriales de 1 minuto de duración, ideales para los ansiosos.  
+
 **-LYNDA -** ***<https://www.lynda.com>***  
 Sitio de video tutoriales de una gran variedad de software, entre los
 que se puede encontrar varios de la suite Adobe, de Nuke y Avid entre
