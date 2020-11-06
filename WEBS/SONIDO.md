@@ -7,7 +7,7 @@ La librería de efectos sonoros incluye varias categorías: ambientes, alarmas, 
 **-FREE MUSIC ARCHIVE -** ***<https://www.freemusicarchive.org>***  
 Servicio similar a YouTube Audio Library (permite buscar pistas de numerosos géneros musicales, instrumentales o no, por duración y por tipo de atribución (dominio público, creative commons, etc.)). Su base de pistas musicales asciende actualmente a más de 122.000 entradas. No es necesario registrarse, permite preescuchar las pistas y descargar luego las que nos interesen en formato mp3.  
 
-**-FREESOUND -** ***<https://www.freesound.com>***  
+**-FREESOUND -** ***<https://www.freesound.org>***  
 El archiconocido sitio web para descargar efectos sonoros y ambientes sigue creciendo gracias a su comunidad de usuarios, que aportan día a día nuevos sonidos. Es gratuito y sin límites de descargas, pero es necesario registrarse para poder bajar material.  
 
 **-FINDSOUNDS -** ***<https://www.findsounds.com>***  
