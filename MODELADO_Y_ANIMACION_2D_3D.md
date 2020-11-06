@@ -23,9 +23,9 @@ Puntualmente pensado para animadores, EbSynth facilita todo el proceso de animac
 **-Blender (Windows, Linux, Mac):**  
 El mejor programa de modelado y animación 2D/3D gratuito que existe a mi
 parecer. No solo sirve para modelar y animar sino que también incluye
-herramientas de sculpting, edicion de video, composicion y un game engine que funciona con lenguaje
-Python por lo que es posible hacer video juegos si se tiene un poco de
-experiencia en programación.  
+herramientas de sculpting, edicion de video, composicion y scripting en lenguaje
+Python por lo que es posible hacer plugins propiso si se tiene un poco de
+experiencia en programación (y sino se pueden descargar algunos de los cientos que hay).  
 **LINK:** ***<https://www.blender.org/>***  
 
 **-Sketch Up (Windows, Mac):**  
@@ -42,5 +42,10 @@ orgánicos y de gran cantidad de polígonos. Fue comprado por la empresa
 de Zbrush quien lo mantuvo gratuito como complemento de su software
 comercial.  
 **LINK:** ***<http://pixologic.com/sculptris/>***  
+
+**-ArmorPaint (Windows, Mac, Linux, Android):**
+ArmorPaint es una alternativa gratuita y open source de Substance Painter. Sirve para pintar texturas de modelos 3D mediante una interfaz que permite el trabajo con nodos y con capas de pintura. Lo malo es que la versión precompilada es paga. Si queremos tenerlo gratis sí o sí tenemos que compilarlo nosotros mismos siguiendo las instrucciones del manual.  
+**LINK:** ***<https://armorpaint.org/>***  
+**GUIA DE COMO COMPILARLO EN WINDOWS:** ***<https://blender.community/c/today/JPcbbc/>***   
 
 [*VOLVER AL INDICE*](README.md)
