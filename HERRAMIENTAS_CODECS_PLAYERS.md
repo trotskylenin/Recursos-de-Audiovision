@@ -150,4 +150,8 @@ Una variante al script anterior, pero este está realizado completamente en Pyth
 La instalacion se hace con pip por lo que requiere conocimientos de programacion basicos, en contraparte ofrece muchas mas opciones que el script anterior y permite incluso bajar las canciones desde listas de Youtube directamente o elegir manualmente que cancion bajar, entre otras opciones varias.  
 **LINK:** ***<https://github.com/ritiek/spotify-downloader>***  
 
+**-RClone (Windows, Linux, Mac):**  
+Considerado "La navaja suiza del storage en la red", este programa por linea de comandos permite administrar contenido en mas de 40 servicios distintos de almacenamiento en la nube, incluyendo entre otros Amazon S3, Mega, Box, Dropbox, Google Drive, OneDrive, ownCloud, Yandex, SugarSync, etc.  
+**LINK:** ***<https://rclone.org/>***  
+
 [*VOLVER AL INDICE*](README.md)
