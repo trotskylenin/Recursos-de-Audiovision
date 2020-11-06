@@ -48,4 +48,9 @@ ArmorPaint es una alternativa gratuita y open source de Substance Painter. Sirve
 **LINK:** ***<https://armorpaint.org/>***  
 **GUIA DE COMO COMPILARLO EN WINDOWS:** ***<https://blender.community/c/today/JPcbbc/>***   
 
+**-Gaffer (Linux, Mac):**  
+Gaffer es una aplicación profesional de efectos visuales gratuita y de código abierto. Está basada en nodos y permite levantar una escena de Maya (u otro programa de 3D)  y crear, modificar, iterar y renderizar escenas fácilmente para probar distintos looks, iluminaciones y shaders. Gaffer se ha utilizado para crear efectos visuales para "Jurassic World: Fallen Kingdom", "Lost in Space", "Logan y Game of Thrones". Es una alternativa gratuita a Katana de The Foundry.  
+**LINK:** ***<https://www.gafferhq.org/>***  
+
+
 [*VOLVER AL INDICE*](README.md)
