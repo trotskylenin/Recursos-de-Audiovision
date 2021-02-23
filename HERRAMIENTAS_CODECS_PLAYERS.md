@@ -68,7 +68,12 @@ formatos así como también reproducir ese tipo de contenido.
 
 **-FFMPEG Batch converter (Windows):**  
 Otro gui de FFMPEG que permite convertir multiples videos en simultaneo a distintos formatos.  
-**LINK:** ***<https://sourceforge.net/projects/ffmpeg-batch/>***  
+**LINK:** ***<https://sourceforge.net/projects/ffmpeg-batch/>***
+
+**-Shutter Encoder (Windows, Linux, Mac):**  
+La mejor y mas completa GUI de FFMPEG ideal para editores. Soporta muchisimas funciones y codecs profesionales de edicion y transmision (incluyendo codecs aun experimentales como AV1). Además de eso soporta funciones de Rewrapping, deteccion de cortes, deteccion de Media Offline, descarga de videos directo de Youtube, carga automatica a Wetransfer o envio por FTP o mail, pegado de subtitulos, etc.  
+Sin dudas el transcoder gratuito mas completo y mas simple de usar que existe. Incluye para Windows una version portable y para Linux una version Appimage, por lo que practicamente puede correr en cualquier distribucion.  
+**LINK:** ***<https://www.shutterencoder.com/en/>***  
 
 **-FFASTrans (Windows):**  
 Una gui gratuita de FFMPEG y AVISynth que permite armar workflows automaticos de transcoding
